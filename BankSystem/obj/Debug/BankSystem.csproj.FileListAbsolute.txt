@@ -1,9 +1,9 @@
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe.config
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csprojResolveAssemblyReference.cache
-c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Form1.resources
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Properties.Resources.resources
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.csproj.GenerateResource.Cache
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.exe
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\bin\Debug\BankSystem.pdb
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.exe
 c:\users\jose luis castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.pdb
+C:\Users\Jose Luis Castillo\documents\visual studio 2013\Projects\BankSystem\BankSystem\obj\Debug\BankSystem.Transaction.resources

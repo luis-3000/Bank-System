@@ -10,10 +10,10 @@ using System.Windows.Forms;
 
 namespace BankSystem
 {
-    public partial class Form1 : Form
+    public partial class Transaction : Form
     {
-        Guy joe;
-        Guy bob;
+        AccountHolder joe;
+        AccountHolder bob;
         int bank = 100;
 
         public void UpdateForm()
@@ -23,13 +23,13 @@ namespace BankSystem
             bankCashLabel.Text = "The bank has $" + bank;
         }
 
-        public Form1()
+        public Transaction()
         {
             InitializeComponent();
 
             //Initializing users here
-            bob = new Guy() { Cash = 100, Name = "Bob" };
-            joe = new Guy() { Cash = 50, Name = "Joe" };
+            bob = new AccountHolder() { Cash = 100, Name = "Bob" };
+            joe = new AccountHolder() { Cash = 50, Name = "Joe" };
 
             UpdateForm();
         }

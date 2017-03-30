@@ -1,6 +1,6 @@
 ﻿namespace BankSystem
 {
-    partial class Form1
+    partial class Transaction
     {
         /// <summary>
         /// Required designer variable.

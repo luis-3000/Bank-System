@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace BankSystem
 {
-    class Guy
+    class AccountHolder
     {
         public string Name;
         public int Cash;
